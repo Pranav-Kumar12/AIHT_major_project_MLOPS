@@ -13,7 +13,6 @@
 9. Update the app.py
 
 
-
 # How to run?
 ### STEPS:
 
