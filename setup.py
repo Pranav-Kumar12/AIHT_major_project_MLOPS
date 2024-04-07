@@ -22,9 +22,6 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='Predictive_Maintenance_With_Mlops',
     version = '0.0.1',
-    author = 'Gaurav Singh', 
-    author_email = 'grv0329@gmail.com', 
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt')
-
 )

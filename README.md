@@ -17,11 +17,6 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/Sengarofficial/Predictive_Maintenance_With_MLops
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -93,7 +88,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 228003619522.dkr.ecr.us-east-1.amazonaws.com/mlflowproject-user 
+    - Save the URI: 339713007175.dkr.ecr.ap-south-1.amazonaws.com/aiht_major_mlops
 
 	
 ## 4. Create EC2 machine (Ubuntu) 

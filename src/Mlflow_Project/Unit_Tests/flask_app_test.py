@@ -9,7 +9,7 @@ class TestApp(unittest.TestCase):
     def test_homePage(self):
         response = self.app.get('/')
         self.assertEqual(response.status_code, 200)
-        self.assertIn(b'Home Page', response.data)  # Replace with the actual content from your template
+        self.assertIn(b'Home Page', response.data)  
 
 if __name__ == '__main__':
     unittest.main()
