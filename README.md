@@ -1,5 +1,4 @@
 # Predictive_Maintenance_With_MLops
-
 ## Workflows
 
 1. Update config.yaml
