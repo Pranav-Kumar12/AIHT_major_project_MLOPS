@@ -16,6 +16,5 @@ COLUMNS:
   (Low-pressure turbines Cool air flow): float64
   RUL: int64
 
-
 TARGET_COLUMN:
   name: RUL

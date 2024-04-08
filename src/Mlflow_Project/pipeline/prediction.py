@@ -29,4 +29,3 @@ class PredictionPipeline:
 
         return prediction 
     
-    

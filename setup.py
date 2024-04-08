@@ -18,7 +18,6 @@ def get_requirements(file_path:str)->List[str]:
 
     return requirements 
 
-
 setup(
     name='Predictive_Maintenance_With_Mlops',
     version = '0.0.1',
